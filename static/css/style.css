@@ -44,6 +44,8 @@ body {
 }
 
 .linksicon {
+    display: inline-block;
+    width: 30px;
     font-weight: normal;
     font-size: x-large;
     padding-right: 30px;
